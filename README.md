@@ -1,14 +1,12 @@
 
 #  University Projects
----
 
 A collection of projects I completed in computing subjects at university
 
 ## Foundations of Algorithm (COMP10002)
----
 
-### Assignment 1
----
+### Assignment 1:
+
 To implement a faster search algorithm using the *learned index* technique
 Grade: 20/20
 
@@ -24,8 +22,8 @@ Key skills:
 * Input processing
 * Functions
 
-### Assignment 2
----
+### Assignment 2:
+
 To develop a simple community detection algorithm
 Grade: 19.5/20
 
@@ -46,4 +44,5 @@ Key skills:
 ---
 
 Project information extracted from document prepared by Jianzhong Qi
+
 (c) 2023 The University of Melbourne
