@@ -1,0 +1,25 @@
+u0 2018 #foodiesofinstagram #foodies #fresh
+u1 2011 #local #togo #yummy #keyfooddeli #supportsmallbusiness #foodlover
+u2 2013 #foodlover #yummy #dinner #foodies #togo
+u3 2014 #foodies
+u4 2017 #storemade #macncheese
+u5 2022 #melbournedemons #richmondtigers #sydneyswans
+u6 2021 #mcg #richmondfc #footy
+u7 2014 #aussierulesfootball #melbournefc #aflfinals
+u8 2019 #afl #footy #football #aussierules #aflw #sport #aussie #melb #syd #tas
+u9 2017 #sydneyswans #nfl #aussie #melbournedemons #footy
+u10 2018 #startreck
+u11 2015 #starwars
+0 1 1 1 0 0 0 0 0 0 0 0
+1 0 1 1 0 0 0 0 0 0 0 0
+1 1 0 1 1 0 0 0 0 0 0 0
+1 1 1 0 0 0 0 0 0 0 0 0
+0 0 1 0 0 1 0 0 0 0 0 0
+0 0 0 0 1 0 1 1 1 0 0 0
+0 0 0 0 0 1 0 1 0 1 0 0
+0 0 0 0 0 1 1 0 1 1 0 0
+0 0 0 0 0 1 0 1 0 1 0 1
+0 0 0 0 0 0 1 1 1 0 1 0
+0 0 0 0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 1 0 0 0
+0.3 2

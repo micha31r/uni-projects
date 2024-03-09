@@ -1,0 +1,49 @@
+Stage 1
+==========
+Number of users: 12
+u8 has the largest number of hashtags:
+#afl #footy #football #aussierules #aflw #sport #aussie #melb #syd #tas
+
+Stage 2
+==========
+Strength of connection between u0 and u1: 0.50
+
+Stage 3
+==========
+0.00 0.50 0.40 0.50 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+0.50 0.00 0.40 0.50 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+0.40 0.40 0.00 0.40 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+0.50 0.50 0.40 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 0.00 0.17 0.33 0.14 0.00 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 0.17 0.00 0.40 0.00 0.17 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 0.33 0.40 0.00 0.33 0.33 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 0.14 0.00 0.33 0.00 0.14 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 0.00 0.17 0.33 0.14 0.00 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+
+Stage 4
+==========
+Stage 4.1. Core user: u0; close friends: u1 u2 u3
+Stage 4.2. Hashtags:
+#dinner #foodies #foodiesofinstagram #foodlover #fresh
+#keyfooddeli #local #supportsmallbusiness #togo #yummy
+Stage 4.1. Core user: u1; close friends: u0 u2 u3
+Stage 4.2. Hashtags:
+#dinner #foodies #foodiesofinstagram #foodlover #fresh
+#keyfooddeli #local #supportsmallbusiness #togo #yummy
+Stage 4.1. Core user: u2; close friends: u0 u1 u3
+Stage 4.2. Hashtags:
+#dinner #foodies #foodiesofinstagram #foodlover #fresh
+#keyfooddeli #local #supportsmallbusiness #togo #yummy
+Stage 4.1. Core user: u3; close friends: u0 u1 u2
+Stage 4.2. Hashtags:
+#dinner #foodies #foodiesofinstagram #foodlover #fresh
+#keyfooddeli #local #supportsmallbusiness #togo #yummy
+Stage 4.1. Core user: u7; close friends: u5 u6 u8 u9
+Stage 4.2. Hashtags:
+#afl #aflfinals #aflw #aussie #aussierules
+#aussierulesfootball #football #footy #mcg #melb
+#melbournedemons #melbournefc #nfl #richmondfc #richmondtigers
+#sport #syd #sydneyswans #tas

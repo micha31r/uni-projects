@@ -1,0 +1,64 @@
+Stage 1
+==========
+First 10 numbers: 1 1 2 2 4 5 8 10 11 11
+
+Stage 2
+==========
+Maximum prediction error: 99
+For key: 99
+At position: 99
+
+Stage 3
+==========
+Target maximum prediction error: 2
+Function  0: a =    0, b =   0, max element =   2
+Function  1: a =    4, b =   2, max element =  12
+Function  2: a =   11, b =   0, max element =  13
+Function  3: a =   14, b =   0, max element =  15
+Function  4: a =   17, b =   0, max element =  19
+Function  5: a =   20, b =   0, max element =  22
+Function  6: a =    0, b =   1, max element =  26
+Function  7: a =    3, b =   1, max element =  38
+Function  8: a =   43, b =   0, max element =  45
+Function  9: a =   46, b =   0, max element =  46
+Function 10: a =    1, b =   1, max element =  58
+Function 11: a =   58, b =   0, max element =  61
+Function 12: a =   61, b =   0, max element =  64
+Function 13: a =   64, b =   0, max element =  65
+Function 14: a =    1, b =   1, max element =  68
+Function 15: a =    4, b =   1, max element =  83
+Function 16: a =   86, b =   0, max element =  88
+Function 17: a =   90, b =   2, max element =  94
+Function 18: a =    1, b =   1, max element =  99
+
+Stage 4
+==========
+Searching for 91:
+Step 1: search key in data domain.
+Step 2: 46 68 94 88
+Step 3: 92 90 not found!
+Searching for 19:
+Step 1: search key in data domain.
+Step 2: 46 19
+Step 3: 16 19 @ dataset[19]!
+Searching for 33:
+Step 1: search key in data domain.
+Step 2: 46 19 38 26
+Step 3: 34 34 33 @ dataset[34]!
+Searching for 15:
+Step 1: search key in data domain.
+Step 2: 46 19 13 15
+Step 3: 15 @ dataset[14]!
+Searching for 72:
+Step 1: search key in data domain.
+Step 2: 46 68 94 88 83
+Step 3: 74 72 @ dataset[75]!
+Searching for 35:
+Step 1: search key in data domain.
+Step 2: 46 19 38 26
+Step 3: 35 @ dataset[38]!
+Searching for 61:
+Step 1: search key in data domain.
+Step 2: 46 68 64 61
+Step 3: 60 61 @ dataset[60]!
+

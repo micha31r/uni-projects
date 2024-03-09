@@ -1,0 +1,49 @@
+Stage 1
+==========
+First 10 numbers: 5 12 18 44 52 58 64 93 98 98
+
+Stage 2
+==========
+Maximum prediction error: 46
+For key: 950
+At position: 89
+
+Stage 3
+==========
+Target maximum prediction error: 5
+Function  0: a =   -5, b =   7, max element =  64
+Function  1: a =  -58, b =   5, max element = 133
+Function  2: a =   14, b =   0, max element = 179
+Function  3: a =  105, b =  15, max element = 468
+Function  4: a =  420, b =  20, max element = 683
+Function  5: a =   62, b =   0, max element = 735
+Function  6: a = -667, b =   1, max element = 736
+Function  7: a =  581, b =  19, max element = 810
+Function  8: a =  624, b =  18, max element = 973
+Function  9: a =   95, b =   0, max element = 995
+
+Stage 4
+==========
+Searching for 18:
+Step 1: search key in data domain.
+Step 2: 735 179 133 64
+Step 3: 52 18 @ dataset[2]!
+Searching for 195:
+Step 1: search key in data domain.
+Step 2: 735 179 683 468
+Step 3: 195 @ dataset[20]!
+Searching for 735:
+Step 1: search key in data domain.
+Step 2: 735
+Step 3: 685 694 735 @ dataset[67]!
+Searching for 975:
+Step 1: search key in data domain.
+Step 2: 735 973 995
+Step 3: 975 @ dataset[95]!
+Searching for 668:
+Step 1: search key in data domain.
+Step 2: 735 179 683 468
+Step 3: 615 655 681 660 not found!
+Searching for 1:
+Step 1: not found!
+

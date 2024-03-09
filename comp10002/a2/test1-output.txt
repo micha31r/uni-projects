@@ -1,0 +1,39 @@
+Stage 1
+==========
+Number of users: 8
+u2 has the largest number of hashtags:
+#libro #bookaholic #booklover #reader #kindle #booklove #art #author
+
+Stage 2
+==========
+Strength of connection between u0 and u1: 0.00
+
+Stage 3
+==========
+0.00 0.00 0.12 0.12 0.00 0.00 0.00 0.00
+0.00 0.00 0.12 0.12 0.00 0.00 0.00 0.00
+0.12 0.12 0.00 0.75 0.12 0.12 0.12 0.12
+0.12 0.12 0.75 0.00 0.12 0.12 0.12 0.12
+0.00 0.00 0.12 0.12 0.00 0.00 0.00 0.00
+0.00 0.00 0.12 0.12 0.00 0.00 0.00 0.00
+0.00 0.00 0.12 0.12 0.00 0.00 0.00 0.00
+0.00 0.00 0.12 0.12 0.00 0.00 0.00 0.00
+
+Stage 4
+==========
+Stage 4.1. Core user: u2; close friends: u0 u1 u3 u4 u5 u6 u7
+Stage 4.2. Hashtags:
+#art #author #book #bookaddict #bookaholic
+#bookblogger #booklove #booklover #booklovers #bookreview
+#books #bookshelf #bookstagram #bookstagrammer #instabook
+#instabooks #kindle #library #libro #love
+#poetry #quotes #read #reader #reading
+#writer #writing
+Stage 4.1. Core user: u3; close friends: u0 u1 u2 u4 u5 u6 u7
+Stage 4.2. Hashtags:
+#art #author #book #bookaddict #bookaholic
+#bookblogger #booklove #booklover #booklovers #bookreview
+#books #bookshelf #bookstagram #bookstagrammer #instabook
+#instabooks #kindle #library #libro #love
+#poetry #quotes #read #reader #reading
+#writer #writing

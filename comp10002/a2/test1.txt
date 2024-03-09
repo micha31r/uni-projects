@@ -1,0 +1,17 @@
+u0 2010 #books #bookstagram #book #booklover #reading #bookstagrammer #read
+u1 2021 #bookaddict #booklovers #instabook #love #bookshelf
+u2 2012 #libro #bookaholic #booklover #reader #kindle #booklove #art #author
+u3 2023 #instabooks #booklovers
+u4 2014 #writer #bookblogger #bookreview #library #quotes #writing #poetry
+u5 2015 #bookreview #library #quotes #writing #libro #poetry
+u6 2016 #kindle
+u7 2016 #kindle
+0 0 1 1 0 0 0 0
+0 0 1 1 0 0 0 0
+1 1 0 1 1 1 1 1
+1 1 1 0 1 1 1 1
+0 0 1 1 0 0 0 0
+0 0 1 1 0 0 0 0
+0 0 1 1 0 0 0 0
+0 0 1 1 0 0 0 0
+0.1 5
