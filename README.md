@@ -8,6 +8,7 @@ A collection of projects I completed for university computing subjects.
 ### Assignment 1:
 
 To implement a faster search algorithm using the *learned index* technique
+
 Grade: 20/20
 
 Project breakdown:
@@ -25,6 +26,7 @@ Key skills:
 ### Assignment 2:
 
 To develop a simple community detection algorithm
+
 Grade: 19.5/20
 
 Project breakdown:
