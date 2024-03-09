@@ -1,7 +1,7 @@
 
 #  University Projects
 
-A collection of projects I completed in computing subjects at university
+A collection of projects I completed for university computing subjects.
 
 ## Foundations of Algorithm (COMP10002)
 
